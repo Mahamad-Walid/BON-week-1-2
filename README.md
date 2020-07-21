@@ -1,5 +1,5 @@
 # BON-week-1-2
-this app is supposed to help u find hotels around center of sharm el sheikh
+this app is supposed to help you find hotels around center of sharm el sheikh
 
 this well have the map photo from the app:
 <br>![map0](https://user-images.githubusercontent.com/62917455/88080129-ecf4b780-cb7e-11ea-8cb3-c1ab7d2ba9cf.png)
